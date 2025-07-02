@@ -33,8 +33,10 @@
 
   <!-- Main Content -->
   <main class="container mt-5">
-    <h2>Welcome to your Dashboard 🎉</h2>
-    <p>This is a protected page accessible only after login.</p>
+    <div class="col">
+        <h2>Welcome to your Dashboard 🎉</h2>
+        <p>This is a protected page accessible only after login.</p>
+    </div>
 
     <!-- Example Content -->
     <div class="row mt-4">
