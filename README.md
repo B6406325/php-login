@@ -1,6 +1,6 @@
 "# php-login" 
 
-๒๒pHpMyAdmin
+## pHpMyAdmin
 
 ## 🗃 Database Setup
 
